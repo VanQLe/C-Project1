@@ -1,0 +1,2 @@
+\\mac\home\documents\visual studio 2015\Projects\Project1\Project1\bin\Debug\Project1.exe.config
+\\Mac\Home\Desktop\C# Project1\C-Project1\Project1\bin\Debug\Project1.exe.config
